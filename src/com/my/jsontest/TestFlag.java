@@ -7,7 +7,7 @@ public class TestFlag {
         boolean flag = true;
         String a  = "aa";
         if (!flag && "aa".equals(a)) {
-            System.out.println("tttt");
+            System.out.println("tttt");//test 
         }
     }
     
